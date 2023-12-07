@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart shopping website</title>
+    <title>New website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Currently no offers...... </h1>   
+         <h1> project is in process will update soon </h1>   
 	 
 
     </section>    
